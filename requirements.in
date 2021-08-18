@@ -1,0 +1,4 @@
+numpy
+pandas
+torch
+tensorflow==2.3.0  # CUDA = 10.1
